@@ -5,4 +5,4 @@
 # Reference
 * Original code is as below.
 * http://nlp.seas.harvard.edu/2018/04/03/attention.html
-* I just copyied code it, nothing new.
+* I just copyied it, nothing new.
