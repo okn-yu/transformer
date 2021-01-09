@@ -1,5 +1,5 @@
 # Abstract
-* Implementation of "Attention is All You Need"
+* Implementation of "Attention is All You Need".
 * https://arxiv.org/abs/1706.03762
 
 # Reference
